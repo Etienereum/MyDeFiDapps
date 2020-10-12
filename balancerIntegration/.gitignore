@@ -1,0 +1,10 @@
+### VS Code ###
+.vscode/
+
+#folders
+node_modules/
+/build/
+
+
+#files
+.env
