@@ -1,0 +1,23 @@
+{
+  "name": "tradingbot",
+  "version": "1.0.0",
+  "description": "Simple Trading Bot on Binance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [
+    "Blockchain",
+    "Binance",
+    "Api",
+    "Trading",
+    "Bot"
+  ],
+  "author": "Okeke Etienne",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ccxt": "^1.37.42"
+  }
+}
